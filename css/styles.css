@@ -1,0 +1,120 @@
+.title {
+  background-color: #182747;
+color: #fff;
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3jl4wtY-MS0WK35c0IqhYWqBdn5Sbb3aFQ&usqp=CAU');
+
+
+
+
+}
+
+p{
+  color: #000;
+}
+h1{
+  font-size: 3rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-style:italic;
+  padding-top: 15%;
+  color: #3330E4;
+
+
+}
+h2{
+  font-family: serif;
+  font-weight: bold;
+  font-size: 5rem;
+  line-height: 1.5;
+  font-style: oblique;
+  color: inherit;
+}
+h3{
+  font-family: serif;
+  font-style: oblique;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.img1{
+  padding-left: 7%;
+width: 200%;
+margin: 20px 20px 50px;
+
+
+}
+.image2{
+width: 30%;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  font-style: italic;
+  font-variant: small-caps;
+  font-family: cursive;
+font-size: 2rem;
+color: #E8F9FD;
+}
+
+.features{
+  padding: 7% 15%;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-Z2bhLgg3gssHSa0wvEd9hBMXLMmrBdlHQ&usqp=CAU');
+
+  background-size: auto;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+  font-size: .8rem;
+}
+.icon{
+  color: #25316D;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #A5F1E9;
+}
+.testimonials{
+  padding: 7% 15%;
+  text-align: center;
+background-color: #182747;
+  color: #fff;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJUnv_Wb2LPAJKLofxIk7FFfabi0gOEGH8ww&usqp=CAU');
+
+  background-size: cover;
+
+
+
+
+}
+.carousel-indicators{
+  padding: 7% 15%;
+
+}
+
+.press{
+  background-color: #002B5B;
+  text-align: center;
+  padding-bottom: 3%;
+
+
+
+}
+.logo{
+  width: 10%;
+}
+.newsletter{
+  padding: 100px;
+  text-align: center;
+  font-weight: bolder;
+  color: #25316D;
+  background-image: url('https://media.istockphoto.com/vectors/seamless-vector-pattern-in-authentic-arabian-style-vector-id1284296433?k=20&m=1284296433&s=612x612&w=0&h=2arX9XtW6_whUoiCpGwv-E8oVFv63_O5XGZznkx4LHw=');
+
+  background-size: auto;
+}
+.newsletter-content{
+  padding: 3% 2%;
+}
